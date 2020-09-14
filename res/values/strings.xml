@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calculadadora IMC</string>
+    <string name="peso">Digite seu Peso atual</string>
+    <string name="altura">Digite sua Altura</string>
+</resources>
